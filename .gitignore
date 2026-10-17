@@ -25,3 +25,4 @@ venv/
 dist/
 build/
 coverage/
+screenshot.png
